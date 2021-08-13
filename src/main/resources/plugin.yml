@@ -1,0 +1,5 @@
+name: PortalStuckTeleport
+version: ${project.version}
+main: me.hsgamer.portalstuckteleport.PortalStuckTeleport
+api-version: 1.13
+authors: [ HSGamer ]
